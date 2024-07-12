@@ -1,6 +1,7 @@
-# Challenge1_Rebeca
+# Challenge2_Rebeca
 
-https://www.notion.so/Template-CBL-SWIFT-c12cba3434334fefbdbebfb90c220ae1?pvs=4
+https://www.notion.so/Template-CBL-2-Design-d8c976ce7474400a915f7caf06a7a2cf?pvs=4
+
 
 
 
